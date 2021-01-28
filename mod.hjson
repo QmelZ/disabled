@@ -1,0 +1,7 @@
+{
+    name: "disabled",
+    displayName: "Enable this mod",
+    author: "QmelZ",
+    version: "1",
+    minGameVersion: 121
+}
