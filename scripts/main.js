@@ -1,2 +1,2 @@
-Core.settings.put("mod-" + this.modName + "-enabled", false);
+Vars.mods.setEnabled(Vars.mods.getMod(modName), false);
 Core.app.exit();
